@@ -1,3 +1,4 @@
+  
 // Progression #1: Greatest of the two numbers
 function greatestOfTwoNumbers(a, b) {
   if (a > b) {
@@ -203,3 +204,4 @@ function maximumProduct(matrix) {
   }
   return result;
 }
+
